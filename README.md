@@ -33,7 +33,7 @@ Este proyecto forma parte de la práctica de laboratorio de **Estructura de Dato
 
 ## 🔗 Versión
 La versión final del proyecto está disponible en el siguiente enlace:
-[Release 2.0.2](URL_DEL_RELEASE)
+[Release 2.0.2](https://github.com/xJoffrex/Ejercicios-Logica-con-Pilas-Colas/releases/tag/v2.0.2)
 
 ---
 
